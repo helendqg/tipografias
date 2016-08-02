@@ -7,27 +7,31 @@
 }
 .bloque{
 	width: 100%;
-	padding:7%;
+	padding:0 7%;
 }
 a{
 	text-align: center;
-	width:210px;
+	width:220px;
 	height:320px;
 	color:#828282;
 	background-color:#FBFBFB;
 	border:1px #828282 solid;
 	display: inline-block;
 	float:left;
-	margin:2px;
+	margin:1px;
 	padding: 20px;
 	text-decoration: none;
-	font-family:"Montserrat";
+	font-family:"Oswald";
+}
+h4{
+	color:#949494;
 }
 a:hover{
 		width:300px,
 		height:400px;
-		color:blue;
-		font-family:"Oswald";
+		color:#A7B9DA;
+		background-color:white;
+		font-family:"Montserrat";
 		-moz-transform: scale(1.1);
 		-webkit-transform: scale(1.1);
 		-o-transform: scale(1.1);
